@@ -4144,6 +4144,12 @@
       "config_flow": false,
       "iot_class": "cloud_polling"
     },
+    "noaa_weather": {
+      "name": "NOAA Weather",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_polling"
+    },
     "nobo_hub": {
       "name": "Nob\u00f8 Ecohub",
       "integration_type": "hub",

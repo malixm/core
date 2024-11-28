@@ -2536,6 +2536,9 @@ renson-endura-delta==1.7.1
 # homeassistant.components.reolink
 reolink-aio==0.9.10
 
+# homeassistant.components.noaa_weather
+requests==2.32.3
+
 # homeassistant.components.idteck_prox
 rfk101py==0.0.1
 
